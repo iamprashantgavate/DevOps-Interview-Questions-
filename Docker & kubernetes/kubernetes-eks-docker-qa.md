@@ -246,7 +246,7 @@ The Kubernetes Service then routes the request to one of the healthy Pods runnin
 
 The microservice processes the request, communicates with the database if required, and returns the response to the user.
 
-![Architecture](architecture.png)
+<img src="architecture.png" width="600">
 
 ---
 
