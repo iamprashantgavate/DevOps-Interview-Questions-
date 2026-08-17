@@ -43,6 +43,8 @@ At 10 AM, we have our daily stand-up call where we discuss ongoing tasks and any
 
 After that, I directly jump to Jira tickets — Jira is the ticketing platform that we use. Tickets usually involve AWS-related tasks such as creating infra using Terraform across multiple environments like Dev, QA, Stage, and Production. I manage CI/CD pipelines, support releases, and handle deployments on EKS. A key part of my role is working on Terraform.
 
+At the same time, as a DevOps Engineer, we don’t work only on planned activities. We also handle unplanned and urgent tasks such as production issues, failed deployments, application or infrastructure incidents, and urgent infrastructure changes. Based on the priority, I troubleshoot and resolve these issues to minimize the impact on the application and users.
+
 After that, we have a lunch break and then...
 
 Post-lunch, I attend a couple of meetings with developers, QA teams, and product owners. In this meeting, we plan for new service onboarding, infrastructure modifications, cost optimization, and DR setup (Disaster Recovery).
